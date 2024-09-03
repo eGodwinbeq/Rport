@@ -42,7 +42,7 @@
         </div>
 
         <!-- Watermark -->
-        <img src="watermark.png" class="watermark" alt="Watermark Image">
+        <img src="https://i.pinimg.com/736x/cf/f1/07/cff107ede20fe6c7e8f258485ee86af4.jpg" class="watermark" alt="Watermark Image">
 
         <div class="row">
             <div class="col-xs-6">
